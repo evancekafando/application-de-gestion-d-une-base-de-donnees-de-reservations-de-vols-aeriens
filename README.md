@@ -1,4 +1,4 @@
-﻿## **Gestion d'une base de données de réservations de vols aériens avec C++, SOCI, & PL/SQL
+﻿## Gestion d'une base de données de réservations de vols aériens avec C++, SOCI, & PL/SQL
 
 ![](https://imgur.com/SFCyRzR.png)
 
